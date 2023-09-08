@@ -4,3 +4,4 @@ Feito na disciplina de Gerenciamento de Configuração de Software
 Uma modificacao
 Mais uma
 Outra
+Teste fetch
